@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="Agregar"
+        android:id="@+id/btagregar" />
+
+    <item android:title="eliminar"
+        android:id="@+id/bteliminar" />
+
+    <item android:title="salir"
+        android:id="@+id/btsalir" />
+
+</menu>
